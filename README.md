@@ -1,6 +1,4 @@
-Master Thesis: Minutiae-based Data-driven Fingerprint Morphing
-
-# Project Title
+# Minutiae-based Data-driven Fingerprint Morphing
 
 This repository contains the code for the work titled "Minutiae-based Data-driven Fingerprint Morphing," which is currently under publication.
 
